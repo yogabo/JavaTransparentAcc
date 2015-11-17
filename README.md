@@ -1,4 +1,6 @@
 ![JavaTransparentAcc -  view Ceska Sporitelna a.s transparent account in Spring MVC app](./scr/banner.png)
+
+
 TransAcc is an Spring MVC app for test purposes written in Java.
 
 ## Features
